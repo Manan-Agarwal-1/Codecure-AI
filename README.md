@@ -95,7 +95,7 @@ python data_pipeline.py
 ### Run dashboard:
 
 ```
-streamlit run app.py
+streamlit run dashboard/app.py
 ```
 
 ---
